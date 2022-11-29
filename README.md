@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mo-Bhadmus
-- 👀 I’m interested in ... Building futuristic tech and solving problems
-- 🌱 I’m currently learning ... Python, UI/UX, HTML, CSS and JavaScript
+- 👀 I’m interested in ... Building futuristic tech and solving real life problems
+- 🌱 I’m currently learning ... Python, UI/UX, HTML, CSS, JavaScript and Solidity.
 - 💞️ I’m looking to collaborate on ... Building Blockchain/Web 3.0 solutions, AIs and Robots.
 - 📫 How to reach me ... okikiolabhadmus3@gmail.com
 
